@@ -1,0 +1,10 @@
+2025-08-11 17:36:54,351 - INFO - Login successful
+2025-08-11 17:36:54,352 - INFO - Login test completed successfully.
+2025-08-11 17:36:54,373 - INFO - *** Clinician Page start ***
+2025-08-11 17:37:15,969 - INFO - Starting optimization and recomputation for {'TestID': 'CL_01', 'ClinicianName': 'Lareau, Dianne (RN)', 'Date': datetime.datetime(2024, 8, 5, 0, 0), 'FirstVisitTime': datetime.time(10, 0), None: None}
+2025-08-11 17:37:22,087 - INFO - formatted_date: 08/11/2025
+2025-08-11 17:37:22,099 - INFO - Current index: (//button[text()=' Confirm visit(s) ' or text()=' Route Optimized '])[3]
+2025-08-11 17:37:29,704 - INFO - Successfully Optimized
+2025-08-11 17:37:29,731 - INFO - Before drag start time values: ['09:13 AM']
+2025-08-11 17:37:29,751 - INFO - Before drag end time values: ['10:13 AM']
+2025-08-11 17:37:32,210 - INFO - Preference Verification

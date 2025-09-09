@@ -1,0 +1,3 @@
+2025-08-20 14:37:36,785 - INFO - Running: D:\Scheduler_Automation\TestCases\AddAuth\test_003_ClinicianCalendar_ManualOptimize_PreferenceCheck.py
+20252025-08-20 14:392025-08-20 14:39:51,611 - ERROR - Test failed: D:\Scheduler_Automation\TestCases\CliniciansPage\test_001_ClinicianCalender_ManualOptimize_OptimizeRoute_RecomputeRoute.py
+2025-08-20 14:39:51,611 - ERROR - 
